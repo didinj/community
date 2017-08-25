@@ -158,7 +158,7 @@ Run the following steps:
 
 
 1.  Create a view file `grails-app/views/fcm/index.gsp` with the content from
-    [index.gsp]((https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/grails3-send-push-notification-using-firebase-cloud-messaging/index.gsp).
+    [index.gsp](https://github.com/GoogleCloudPlatform/community/blob/master/tutorials/grails3-send-push-notification-using-firebase-cloud-messaging/index.gsp).
 
 1.  Run and test push notification from the browser.
 
